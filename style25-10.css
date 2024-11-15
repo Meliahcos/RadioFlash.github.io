@@ -1,0 +1,66 @@
+.color-turquesa-llamativo{ 
+    color: cyan;
+    font-family: "Sarina", cursive;
+    font-weight: bold;
+    font-size: 35px;
+    
+    
+}
+#palabra{font-size: 1cm;
+    color: beige;
+    font-family: "Exo 2";
+}
+h2{
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+    
+}
+.centrar{
+    display: flex;
+    justify-content: center;
+    font-family: "Exo 2", sans-serif;
+    align-items: center;
+  
+}
+body{ background: url(Radio\ flash.jpg);
+    
+    /*background-color: rgb(22, 21, 21) ;
+
+    color: azure; */ 
+} 
+.logo{
+    display: flex;
+    padding: 10px;
+    margin: 10px;
+    gap: 40px;
+    background-color: #111010;
+}
+   
+img{
+    width: 100px; ;
+    height: 100px;
+    justify-self: start;
+    background: #111010;
+    border: 1px solid cyan;
+    border-radius: 12px;
+    padding: 10px;
+}    
+
+
+.subtitulo{
+    background-color: aliceblue;
+    color: #111010;
+    border: 2px solid cyan;
+    border-radius: 30px;
+}
+.col-6{
+    color: beige;
+}
+
+
+
+    
+
+
+

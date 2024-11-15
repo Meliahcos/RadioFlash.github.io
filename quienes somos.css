@@ -1,0 +1,99 @@
+h1{ 
+    /* reglas del h1*/
+    color: rgb(238, 241, 241) ; 
+    /* hexadecimal: #ff0000 - rgb(255,0,0) */
+    font-size: 40px; 
+    font-family: "Exo 2", sans-serif;
+    text-align: center;
+    padding: 10px;
+    margin: 20px;
+    border-radius: 12px;
+    display: flex;
+}
+
+.color-turquesa-llamativo{ 
+    color: cyan;
+    font-family: "Sarina", cursive;
+    display: flex;
+}
+#palabra{font-size: 1cm
+
+}
+
+body{ 
+    /*background-color: rgb(22, 21, 21) ;*/
+    background: url(Radio\ flash.jpg);
+
+    color: azure;  
+}                
+.logo{
+    display: flex;
+    padding: 3px;
+    margin: 3px;
+    gap: 40px;
+    background-color: #111010e1;
+    justify-content: center;
+}
+   
+img{
+    width: 100px; ;
+    height: 100px;
+    justify-content: space-evenly;
+    background: #111010;
+    border: 1px solid cyan;
+    border-radius: 12px;
+    padding: 10px;
+    margin: 10px;
+
+}
+
+p{ font-style: oblique;
+   font-size: 35px;
+   color: rgba(242, 243, 243, 0.76);
+   padding: 100px;
+   text-align: left ;
+   background: #151616c2;
+   border: 1px solid cyan;
+   border-radius: 8px;
+   font-weight: 100px;
+}
+
+
+ 
+.section {
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    text-align: center;
+    gap: 900px
+
+} 
+ .player{
+    justify-content:space-between;
+    display:flex;
+    gap: 900px;
+    padding: 10px;
+    margin: 10px;
+}  
+  
+.img-grande{
+    width:450px ;
+    height: 450px; 
+    padding: 10px;
+    margin: 10px;
+    justify-content:center;
+    
+
+
+}
+
+.iconos{
+    display: flex;
+    justify-content: center;
+}
+.img-chica{
+    width: 60px;
+    height:60px ;
+    justify-self:start;
+    display: inline;
+
+}
